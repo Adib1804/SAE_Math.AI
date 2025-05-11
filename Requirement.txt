@@ -1,5 +1,0 @@
-streamlit
-sympy
-git add .
-git commit -m "Ensure all dependencies are added"
-git push
