@@ -11,6 +11,7 @@ SAE Math.AI ialah aplikasi pembantu matematik sekolah rendah menggunakan Python 
 
 ## Cara Guna
 1. Buka terminal dan taip:
+streamlit run app_finaltouch.py
 
 2. Aplikasi web akan dibuka dalam pelayar anda.
 
